@@ -1105,3 +1105,12 @@ section {
 .search-item:hover {
   /* Add your custom styles here */
 }
+
+#logo {
+  width:200px;
+}
+
+.image-container {
+  position: relative;
+  display: inline-block;
+}
